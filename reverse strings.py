@@ -8,7 +8,7 @@ def reverser(word):
         reverser(input('moar'))
     else:
         print("That ain't a word")
-        reverser(input('try again, bitch'))
+        reverser(input('Try again, bitch'))
 
 
 reverser(input("Gimme a word and I'll reverse it. Fuck."))
