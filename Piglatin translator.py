@@ -24,7 +24,7 @@ def get_words():
                       "Are you still there?",
                       "don't leave me here alone O,O give me something to thinkk about",
                       "No matter what you say it'll be too easy. I'm like a computer or something",
-                      "poop sballs. Gimme a entence",
+                      "Gimme a entence",
                       "you know this works better than I suspected",
                       "Dude what time do you think it is",
                       "Go to sleep",
